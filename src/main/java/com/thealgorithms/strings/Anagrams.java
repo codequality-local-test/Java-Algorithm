@@ -23,6 +23,7 @@ public class Anagrams {
         System.out.println(nm.approach1(first, second)); /* To activate methods for different approaches*/
         System.out.println(nm.approach3(first, second)); /* To activate methods for different approaches*/
         System.out.println(nm.approach4(first, second)); /* To activate methods for different approaches*/
+        System.out.println(nm.approach4(first, second)); /* To activate methods for different approaches*/
         /**
          * OUTPUT :
          * first string ="deal" second string ="lead"
